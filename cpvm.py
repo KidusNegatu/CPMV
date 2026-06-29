@@ -164,6 +164,3 @@ program = [
 ]
 vm = VirtualMachine(program)
 vm.runVM()
-
-# Example of opcodes
-# ===================
